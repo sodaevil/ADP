@@ -1,8 +1,8 @@
-﻿#pragma once
+﻿#pragma once	// lỗi dấu đầu 
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include"DataAccount.h"
+#include"DataAccount.h"  
 #include<string>
 #include <msclr\marshal_cppstd.h>
 namespace GameBauCua {
