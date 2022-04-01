@@ -16,7 +16,7 @@ namespace GameBauCua {
 	using namespace System::Text;
 	using namespace System::Threading::Tasks;
 	using namespace System::Collections::Generic;
-
+	// viết vào đây
 	/// <summary>
 	/// Summary for HomeGame
 	/// </summary>
