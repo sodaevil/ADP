@@ -1,0 +1,5 @@
+C:\Users\asus\Desktop\js_1\Winfrom\GameBaucua\GameBauCua\GameBauCua\x64\Debug\GameBauCua.vcxproj.AssemblyReference.cache
+C:\Users\asus\Desktop\js_1\Winfrom\GameBaucua\GameBauCua\GameBauCua\x64\Debug\GameBauCua.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\js_1\Winfrom\GameBaucua\GameBauCua\GameBauCua\x64\Debug\GameBauCua.login.resources
+C:\Users\asus\Desktop\js_1\Winfrom\GameBaucua\GameBauCua\GameBauCua\x64\Debug\GameBauCua.vcxproj.GenerateResource.cache
+C:\Users\asus\Desktop\js_1\Winfrom\GameBaucua\GameBauCua\GameBauCua\x64\Debug\GameBauCua.HomeGame.resources

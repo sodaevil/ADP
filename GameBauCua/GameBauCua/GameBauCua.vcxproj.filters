@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\IMG">
+      <UniqueIdentifier>{be5d2f21-79e0-429f-8e5f-ef5d66520622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ManagerAccount">
+      <UniqueIdentifier>{42679fe8-a5f4-4404-9321-f3cbdea0bc0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ManagerAccount">
+      <UniqueIdentifier>{b391db99-1b31-46a7-aeaa-6902ab3a6e8b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HomeGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>Source Files\ManagerAccount</Filter>
+    </ClCompile>
+    <ClCompile Include="DataAccount.cpp">
+      <Filter>Source Files\ManagerAccount</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="login.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HomeGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Header Files\ManagerAccount</Filter>
+    </ClInclude>
+    <ClInclude Include="DataAccount.h">
+      <Filter>Header Files\ManagerAccount</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\Img\Bau.png">
+      <Filter>Source Files\IMG</Filter>
+    </Image>
+    <Image Include="..\..\Img\Ca.png">
+      <Filter>Source Files\IMG</Filter>
+    </Image>
+    <Image Include="..\..\Img\Cua.png">
+      <Filter>Source Files\IMG</Filter>
+    </Image>
+    <Image Include="..\..\Img\Ga.png">
+      <Filter>Source Files\IMG</Filter>
+    </Image>
+    <Image Include="..\..\Img\Nai.png">
+      <Filter>Source Files\IMG</Filter>
+    </Image>
+    <Image Include="..\..\Img\Tom.png">
+      <Filter>Source Files\IMG</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ListAcc.txt">
+      <Filter>Header Files\ManagerAccount</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
