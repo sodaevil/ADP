@@ -211,4 +211,4 @@ private: System::Void login_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 };;
 }
-
+//Giao diện đăng nhập chưa được bắt mắt, còn thô sơ.
