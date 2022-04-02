@@ -36,6 +36,7 @@ namespace GameBauCua {
 		// 4 ca
 		// 5 cua
 		// 6 tom
+		// không cmt code ở hàm thuật toán
 		int Random(int a, int b)
 		{
 			return a + rand() % (b - a + 1);
@@ -451,6 +452,7 @@ private: System::Void btnDat_Click(System::Object^ sender, System::EventArgs^ e)
 	//Generate random numbers from 1 to 6
 	int val = Random(1,6);
 	//compare the random function and print the corresponding image
+	//sử lý thuật toán không tối ưu
 	if (val == 1) {
 		pictureBox1->Image = Image::FromFile("Nai.png");
 	}
