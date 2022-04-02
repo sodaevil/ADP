@@ -211,5 +211,3 @@ private: System::Void login_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 };; // Thừa kí tự ;
 }
-
-
