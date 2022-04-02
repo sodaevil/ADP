@@ -495,3 +495,4 @@ private: System::Void userName_Click(System::Object^ sender, System::EventArgs^ 
 }
 };
 }
+// Code đọc khó hiểu nên khó bảo trì.
