@@ -211,4 +211,5 @@ private: System::Void login_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 };;
 }
+//Code chưa cách đều nhau , nhìn vào khó đọc.
 
