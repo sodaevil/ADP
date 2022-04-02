@@ -209,6 +209,6 @@ private: System::Void btnLogin_Click(System::Object^ sender, System::EventArgs^ 
 		
 private: System::Void login_Load(System::Object^ sender, System::EventArgs^ e) {
 }
-};;
+};; // Thừa kí tự ;
 }
 
