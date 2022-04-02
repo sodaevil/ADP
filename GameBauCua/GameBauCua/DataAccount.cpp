@@ -1,11 +1,13 @@
 #include "DataAccount.h"
 DataAccount::DataAccount()
 {
+	// contructor không ghi rỏ chức năng
 	readFile();
 }
 
 void DataAccount::readFile()
 {
+	// đọc file không rỏ ràng 
 	fstream fi("ListAcc.txt");
 	string id, user, pass, tmp_money;
 	while (fi.good())
