@@ -23,7 +23,7 @@ namespace GameBauCua {
 	public ref class HomeGame : public System::Windows::Forms::Form
 	{
 	private:
-	// đặt tên biến có ktựtự
+	// đặt tên biến có kí tự
 		String^ a;
 		int momo;
 	public:
