@@ -23,6 +23,7 @@ namespace GameBauCua {
 	public ref class HomeGame : public System::Windows::Forms::Form
 	{
 	private:
+	// đặt tên biến có kí tự
 		String^ a;
 		int momo;
 	public:
@@ -36,6 +37,7 @@ namespace GameBauCua {
 		// 4 ca
 		// 5 cua
 		// 6 tom
+		//hàm chức năng không 
 		int Random(int a, int b)
 		{
 			return a + rand() % (b - a + 1);
